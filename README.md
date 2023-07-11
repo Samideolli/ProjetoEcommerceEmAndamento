@@ -1,4 +1,4 @@
-# ecomerce
+# Projeto E-commerce para a disciplina de Lab. de engenharia de software, parte do Front-End
 
 ## Project setup
 ```
